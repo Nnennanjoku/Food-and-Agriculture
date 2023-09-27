@@ -1,7 +1,7 @@
 # Food-and-Agriculture
 The dataset is provided by the Food and Agriculture Organization of the United Nations and is used this dataset to answer some of the questions in the code.
 
-
+Out of the 20 questions, 16 were answered in this code and their output displayed while the remaining 4 doesn't require codes.
 Features of the dataset:
 
 Area Code',
