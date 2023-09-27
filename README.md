@@ -1,8 +1,8 @@
 # Food-and-Agriculture
-The dataset is provided by the Food and Agriculture Organization of the United Nations and is made available in .csv format on the github link below-
+The dataset is provided by the Food and Agriculture Organization of the United Nations and is used this dataset to answer some of the questions in the code.
 
 
-Features
+Features of the dataset:
 
 Area Code',
 
@@ -28,4 +28,4 @@ Area Code',
 
 'Y2018'
 
-I used this dataset to answer some of the questions in the code.
+
